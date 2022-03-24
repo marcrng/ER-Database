@@ -1,6 +1,6 @@
 ,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
 0,Battle Axe,123,47,-,31,-,31,-,31,-,31,100,31,12,D,8,D,-,-,-,-,-,-,4.5,WildStrikes
-1,Forked Hatchet,101,40,-,27,-,27,-, 27,-, 27,100, 27,9,D,14 ,D,- ,-,- ,-,-,-,2.5,Quickstep
+1,Forked Hatchet,101,40,-,27,-,27,-,27,-,27,100,27,9,D,14,D,"",-,"",-,-,-,2.5,Quickstep
 2,Hand Axe,113,42,-,28,-,28,-,28,-,28,100,28,9,D,8,D,-,-,-,-,-,-,3.5,Quickstep
 3,Jawbone Axe,124,49,-,33,-,33,-,33,-,33,100,36,14,D,8,E,-,-,-,-,-,-,5.5,WildStrikes
 4,Iron Cleaver,120,51,-,34,-,34,-,34,-,34,100,34,15,C,7,E,-,-,-,-,-,-,6,WildStrikes
@@ -9,6 +9,6 @@
 7,Icerind Hatchet,111,40,-,27,-,27,-,27,-,27,100,27,11,E,16,D,-,-,-,-,-,-,3.0,HoarfrostStomp
 8,Highland Axe,123,47,-,31,-,31,-,31,-,31,110,31,12,D,9,D,-,-,-,-,-,-,4.5,WarCry
 9,Sacrificial Axe,128,49,0,33,0,33,0,33,0,33,100,33,16,D,10,D,-,-,-,-,-,-,5.5,WildStrikes
-10,Rosus' Axe,106 ,44,68,44,-,30,-,30,-,30,100,33,18,D,10,E,18, D,-, -,-,-,5.5,RosussSummons
+10,Rosus' Axe,106,44,68,44,-,30,-,30,-,30,100,33,18,D,10,E,18,D,-,"",-,-,5.5,RosussSummons
 11,Stormhawk Axe,130,49,-,33,-,33,-,33,-,33,100,31,19,D,15,D,-,-,-,-,-,-,5.5,Thunderstorm
 12,Warped Axe,118,56,-,37,-,37,-,37,-,37,100,43,24,C,8,-,-,-,-,-,-,-,7.5,WarCry
