@@ -1,0 +1,12 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Greataxe,151,53,-,37,-,37,-,37,-,37,100,37,30,D,8,D,-,-,-,-,-,-,13.0,BarbaricRoar
+1,Great Omenkiller Cleaver,142,47,-,33,-,33,-,33,-,45,100,35,23,D,12,D,-,-,-,-,-,-,11.0,WildStrike
+2,Axe of Godrick,142,50,-,35,-,35,-,35,-,35,100,35,34,D,22,D,-,-,-,-,-,-,11,ICommandTheeKneel
+3,Butchering Knife,134,45,-,31,-,31,-,31,-,31,100,33,16,E,20,C,-,-,-,-,-,-,8.5,BarbaricRoar
+4,Winged Greathorn,130,50,-,35,-,35,-,35,-,35,100,35,30,D,20,D,-,-,-,-,-,-,11.0,SoulStifler
+5,Executioner's Greataxe,150,57,-,40,-,40,-,40,-,40,115,40,34,C,8,E,-,-,-,-,-,-,15,WarCry
+6,Rusted Anchor,147,52,-,36,-,36,-, 36,-,36,100, 36,26,C,9,E,-,-,-,-,-, -,12.5,BarbaricRoar
+7,Crescent Moon Axe,146,52,-,36,-,36,-,36,-,36,100,36,25,D,15,D,-,-,-,-,-,-,12.5,WarCry
+8,Gargoyle's Black Axe,100,36,-,27,-,27,-,27,120,54,100,31,24 ,D,8,E,-,-,22,D,-,-,8.5,WarCry
+9,Gargoyle's Great Axe,123,45,-,31,-,31,-,31,-,31,100,31,24,C,8,E,-,-,-,-,-,-,8.5,WarCry
+10,Longhaft Axe,146,52,-,36.0,-,36.0,-,36.0,-,36.0,100,36,24,D,8,D,-,-,-,-,-,-,12.5,WarCry

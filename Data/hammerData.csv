@@ -1,0 +1,16 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Mace,115,45,,30,,30,,30,,30,100, 30,12,D,7,D,,,,,,,4.5,Kick
+1,Club,103,41,,27,,27,,27,,27,100,27,10,C,,,,,,,,,5.0,BarbaricRoar
+2,Curved Club,114,45,0,30,0,30,0,30,0,30,100,30,11,D,7,E,,,,,,,5,BarbaricRoar
+3,Warpick,108,40,, 40,,27,,27,,27,,27,11,D,9, D,, ,, ,, ,2.5,Kick
+4,Morning Star,118,47,,31,,31,,31,,31,100,31,12,D,8,D,,,,,,,5.0,Kick
+5,Varre's Bouquet,46,38,0,25,0,25,0,25,0,25,100,25,8,E,16,D,,,,,24,C,2,BloodTax
+6,Spiked Club,114,45,, 30,,30,,30,,30,100, 30,12,D,7,D,,,,,,,5.0,BarbaricRoar
+7,Hammer,124,51,,34,,34,,34,,34,100,36,14,D,7,D,,,,,,,6.5,Kick
+8,Monk's Flamemace,126,49,,33,,33,,33,,33,100,33,13,E,13,D,,,,,,,6.0,Kick
+9,Envoy's Horn,96,38,,26,,26,,26,62,38,100,28,10,D,12,D,,,16,D,,,4.0,OracularBubble
+10,Scepter of the AllKnowing,99,36,64,36,,25,,25,,25,100,27,12,E,18,D,21,D,,,,,4.5,KnowledgeAboveAll
+11,Nox Flowing Hammer,122,51,0,34,0,34,0,34,0,34,100,34,17,C,7,E,,,,,,,6.5,SilverScourge
+12,Ringed Finger,121,38,,26,,26,,26,,38,100,28,17,D,7,D,,,,,,,4.5,ClawFlick
+13,Stone Club,122,52,0,35,0,35,0,35,0,35,100,36,16,C,8,E,,,,,,,7,Kick
+14,Marika's Hammer,101,44,0,30,0,30,0,30,65,44,100,33,20,D,12,D,,,19,D,,,6,GoldBreaker

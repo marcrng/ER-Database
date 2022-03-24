@@ -1,0 +1,3 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Hand Ballista,135,-,-,-,-,-,-,-,-,-,100,50 -,30,-,14,-,-,-,-,-,-,-,10.0,Kick
+1,Jar Cannon,192,-,-,-,-,-,-,-,-,-,100,50 -,34,-,12,-,-,-,-,-,-,-,15.0,Kick

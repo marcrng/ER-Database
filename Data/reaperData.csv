@@ -1,0 +1,5 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Scythe,125,45,,30,,30,,30,,30,100,30,14,E,14,C,,,,,,,7.5,SpinningSlash
+1,Grave Scythe,144,49,,33,,33,,33,,33,100,33,17,D,13,D,,,,,,,9.5,SpinningSlash
+2,Halo Scythe,118,42,,29,,29,,29,76,42,100,31,13,D,16,D,,,15,E,,,8.5,MiquellasRingofLight
+3,Winged Scythe,87,30,,25,,25,,25,104,55,100,30,16,E,16,D,,,24,D,,,7.5,AngelsWings

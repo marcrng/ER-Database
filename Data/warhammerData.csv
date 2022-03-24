@@ -1,0 +1,15 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Large Club,131,46,,32,,32,,32,,32,100,35,22,C,,,,,,,,,8.5,BarbaricRoar
+1,Greathorn Hammer,134,50,,35,,35,,35,,35,100,35,22,D,10,D,,,,,,,10,BarbaricRoar
+2,Battle Hammer,131,52,,36,,36,,36,,36,100,36,26,C,8,E,,,,,,,10,BraggartsRoar
+3,Great Mace,134,55,,38,,38,,38,,38,100,35,28,C,,,,,,,,,11.5,Endure
+4,Curved Great Club,145,52,,36,,36,,36,,36,100,36,24,D,10,D,,,,,,,10,FPBarbaricRoar
+5,Celebrant's Skull,138,48,,34,,34,,34,,34,100,34,18,?,12,?,,,,,,,8.5,FPBarbaricRoar
+6,Pickaxe,144,52,,36,,36,,36,,36,100,36,22,D,10,D,,,,,,,10,Endure
+7,Beastclaw Greathammer,116,47,,33,,33,,33,,33,100,33,20,D,10,D,,,18,D,,,9,RegalBeastclaw
+8,Envoy's Long Horn,120,44,,31,,31,,31,78,42,100,35,23,D,11,D,,,18,D,,,9.5,BubbleShower
+9,Cranial Vessel Candlestand,98,54,,37,98,51,,37,,37,100,40,26,D,8,E,,,22,D,,,12.5,SurgeofFaith
+10,Great Stars,135,52,,36,,36,,36,,36,100,36,22,D,12,D,,,,,,,10,Endure
+11,Brick Hammer,122,57,,40,,40,,40,,40,100,40,31,B,,,,,,,,,12.5,BarbaricRoar
+12,Devourer's Scepter,107,47,,33,69,45, ,33,,33,100,35,24,D,20,D,,,25,D,,,11.5,DevourerofWorlds
+13,Rotten Battle Hammer,126,52,,36,,36,,36,,36,100,42,26,C,8,E,,,,,,,10,BraggartsRoar

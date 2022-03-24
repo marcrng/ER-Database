@@ -1,0 +1,17 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Halberd,125,5,,35,,35,,35,,35,1,35,14,D,12,D,,,,,,,8,ChargeForth
+1,Pest's Glaive,12,47,,33,,33,,33,,33,1,33,13,D,13,D,,,,,,,7,SpinningSlash
+2,Lucerne,121,47,,33,,33,,33,,33,1,38,15,D,12,C,,,,,,,7,ChargeForth
+3,Banished Knight's Halberd,125,5,,35,,35,,35,,35,1,35,14,D,12,D,,,,,,,8,ChargeForth
+4,Commander's Standard,138,58,,41,,41,,41,,41,1,38,24,D,14,D,,,,,,,11.5,RallyingStandard
+5,Nightrider Glaive,129,6,,42,,42,,42,,42,1,42,26,C,1,E,,,,,,,12.,SpinningSlash
+6,Ripple Crescent Halberd,86,51,,35,,35,,35,,35,1,38,12,,12,,,,,,2,B,8.5,SpinningSlash
+7,Vulgar Militia Saw,121,5,,35,,35,,35,,35,1,35,15,D,13,D,,,,,,,8.,SpinningSlash
+8,Golden Halberd,134,58,,41,,41,,41,87,56,1,43,3,D,14,E,, ,12,D,,,13.5,GoldenVow
+9,Glaive,132,55,,38,,38,,38,,38,1,38,18,D,15,D,,,,,,,1,SpinningSlash
+10,Loretta's War Sickle,11,51,71,49,,36,,36,,36,1,38,2,D,15,D,15,D,,,,,1,LorettasSlash
+11,Guardian's Swordspear,139,52.,,36,,36,,36,,36,1,36,17,E,16,C,,,,,,,9.,SpinningSlash
+12,Vulgar Militia Shotel,121,5,,35,,35,,35,,35,1,35,14,E,16,C,,,,,,,8.,SpinningSlash
+13,Dragon Halberd,135,52,,37,,37,,5,,37,1,39,22,D,1,D,,,,,,,1.5,SpinningSlash
+14,Gargoyle's Halberd,131,6,,42,,42,,42,,42,1,42,26,C,1,E,,,,,,,12.,SpinningSlash
+15,Gargoyle's Black Halberd,13,48,,36,,36,,36,123,72,1,42,26,C,1,E,,,22,D,,,12.,SpinningSlash

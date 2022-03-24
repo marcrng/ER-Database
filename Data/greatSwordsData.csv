@@ -1,0 +1,22 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Bastard Sword,138,50,,35,,35,,35,,35,100,35,16,D,10,D,,,,,,,9,StampUpwardCut
+1,Claymore,138,50,,35,,35,,35,,35,100,35,16,D,13,D,,,,,,,9,LionsClaw
+2,Iron Greatsword,149,56,,39,,39,,39,,39,100,39,18,C,10,E,,,,,,,12,StampUpwardCut
+3,Lordsworn's Greatsword,136,50,,35,,35,,35,,35,110,35,16,D,10,D,,,,,,,9,StampUpwardCut
+4,Knight's Greatsword,141,52,,36,,36,,36,,36,100,36,16,D,12,D,,,,,,,10,StampUpwardCut
+5,Banished Knight's Greatsword,142,52,,36,,36,,36,,36,100,36,17,D,9,D, ,,,,,,10,StampUpwardCut
+6,Forked Greatsword,124,47,,33,,33,,33,,33,100,33,14,D,16,D,,,,,,,9,StampUpwardCut
+7,Flamberge,129,50,,35,,35,,35,,35,100,35,15,D,14,C,,,,,,,10,StampUpwardCut
+8,Gargoyle's Greatsword,133,55,,38,,38,,38,,38,100,38,18,C,10,E,,,,,,,11.5,VacuumSlice
+9,Gargoyle's Blackblade,102,44,,33,,33,,33,122,66,100,38,18,D,10,E,,,22,D,, ,11.5,CorpseWaxCutter
+10,Inseparable Sword,98,44,,34,,34,,34,98,52,100,36,18,D,18,D,,,20,C,,,10,SacredBlade
+11,Sword of Milos,141,52,,36,,36,,36,,36,100,36,15,D,19,D,,,,,,,10,ShriekofMilos
+12,Marais Executioner's Sword,94,51,61,49,,36,,36,,36,100,38,24,C,14,E,,,,,23,D,11.5,EochaidsDancingBlade
+13,Ordovis's Greatsword,107,52,,37,,37,,37,69,50,100,39,25,C,13,E,,,15,D,,,12,OrdovissVortex
+14,Alabaster Lord's Sword,128,41,38,33,,27,,27,,27,100,33,16,D,12,E,18,D,,,,,8,AlabasterLordsPull
+15,Death's Poker,123,46,36,39,,33,,33,,33,100,33,15,D,17,D,11,E,,,,,8.5,GhostflameIgnition
+16,Helphen's Steeple,101,49,101,60,,33,,33,,33,100,38,19,D,10,E,22,D,,,,,11.5,RuinousGhostflame
+17,Blasphemous Blade,121,56,,39,78,54,,39,,39,100,42,22,D,15,D,,,21,D,,,13.5,TakersFlames
+18,Golden Order Greatsword,86,40,,30,,30,,30,103,60,100,35,16,E,21,D,,,28,C,,,10,EstablishOrder
+19,Dark Moon Greatsword,82,42,98,63,,31,,31,,31,100,36,16,D,11,D,38,C,,,,,10,MoonlightGreatsword
+20,Sacred Relic Sword,118,47,,33,,33,,33,76,45,110,35,14,E,24,D,,,22,D,,,11,WaveofGold

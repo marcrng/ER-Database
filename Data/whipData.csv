@@ -1,0 +1,7 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Whip,100,25,,15,,15,,15,,15,100,15,8,D,14,D,,,,,,,2.0,Kick
+1,Thorned Whip,102,26,,15,,15,,15,,15,100,15,8,E,16,C,,,,,,,2.5,Kick
+2,Magma Whip Candlestick,72,21,,10,72,36,,10,,10,100,15,8,E,16,D,,,18,D,,,2.5,SeaofMagma
+3,Hoslow's Petal Whip,110,28,,17,,17,,17,,17,100,17,10,D,20,D,,,,,,,3.5,Kick
+4,Giant's Red Braid,82,24,,12,53,26,,12,,12,100,15,18,D,12,D,,,21,D,,,2.5,FlameDance
+5,Urumi,101,27,,16,,16,,16,,16,100,15,10,E,19,C,,,,,,,3.0,Kick

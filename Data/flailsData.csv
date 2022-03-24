@@ -1,0 +1,6 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Flail,109,36.0,-,24,-,24,-,24,-,24,100,20,10,D,18,D,-,-,-,-,-,-,5.0,SpinningChain
+1,Chainlink Flail,109,43,-,28,-,28,-,28,-,28,100,28,18,C,12,E,-,-,-,-,-,-,8,SpinningChain
+2,Nightrider Flail,112,37,-,25,-,25,-,25,-,25,100,21,10,E,24,C,-,-,-,-,-,-,6.0,SpinningChain
+3,Bastard's Stars,65,32,78,48,-,24,-,24,-,24,100,20,8,E,22,D,22,C,-,-,-,-,5.5,Nebula
+4,Family Heads,87,37,56,36,-,26,-,26,-,26,100,20,8,E,18,C,16,E,-,-,-,-,5.5,FamilialRancor

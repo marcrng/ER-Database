@@ -1,0 +1,17 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Dagger,74,35,-,20,-,20,-,20,-,20,130,15,5,D,9,C,-,-,-,-,-,-,1.5,Quickstep
+1,Black Knife,66,26,-,15,-,15,-,15,65,42,110,15,8, E,12,D,-,-,18,D,-,-,2.0,BladeofDeath
+2,Parrying Dagger,75,35.0,-,20,-,20,-,20,-,20,110,15,5,E,14,C,-,-,-,-,-,-,1.5,Parry
+3,Misericorde,92,36,-,21,-,21,-,21,-,21,140,15,7,E,12,D,-,-,-,-,-,-,3.0,Quickstep
+4,Reduvia,79,38.0,-,22,-,22,-,22,-,22,110,16,5,D,13,C,-,-,-,-,13,D,2.5,BloodBlade
+5,Crystal Knife,82,32,53,31,-,18,-,18,-,18,100,15,8,D,12,D,9,D,-,-,-,-,2.0,Quickstep
+6,Celebrant's Sickle,79,35,-,20,-,20,-,20,-,20,100,15,6,E,11,C,-,-,-,-,-,-,1.5,Quickstep
+7,Glintstone Kris,57,23,68,45,-,14,-,14,-,14,110,15,5,E,12,D,16,D,-,-,-,-,1.5,GlintstoneDart
+8,Scorpion's Stinger,79,38,-,22,-,22,-,22,-,22,110,16,6,D,12,C,-,-,-,-,-,-,2.5,RepeatingThrust
+9,Great Knife,75,35,-,20,-,20,-,20,-,20,110,15,6,E,12,D,-,-,-,-,-,-,1.5,Quickstep
+10,Wakizashi,94,42,-,24,-,24,-,24,-,24,100,18,9,D,13,D,-,-,-,-,-,-,3.0,Quickstep
+11,Cinquedea,98,43,-,25,-,25,-,25,-,25,100,18,10,D,10,E,-,-,-,-,-,-,3.5,Quickstep
+12,Ivory Sickle,60, 26,60,42,-,15,-,15,-,15,100,15,6,E,11,D,13,D,-,-,-,-,2.0,Quickstep
+13,Bloodstained Dagger,81,36,-,21,-,21,-,21,-,21,110,15,9,C,12,E,-,-,-,-,-,-,2.0,Quickstep
+14,Erdsteel Dagger,67,36,-,21,-,21,-,21,-,21,110,15,7,D,12,D,-,-,14,D,-,-,2.0,Quickstep
+15,Blade of Calling,71,31,-,18,-,18,-,18,43,30,110,15,6,D,13,D,-,-,15,C,-,-,1.5,BladeofGold

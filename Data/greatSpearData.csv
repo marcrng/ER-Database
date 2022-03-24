@@ -1,0 +1,7 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Mohgwyn's Sacred Spear,96,55,,38,62,38,,38,,38,100,38,24,D,14,E,--,-,--,-,17,D,10,BloodboonRitual
+1,Siluria's Tree,90,46,-,36,-,36,-,36,90,55,100,38,27,D,13,E,-,-,20,D,-,-,10,SiluriasWoe
+2,Serpent-Hunter,111,60,-,42,-,42,-,42,-,42,100,40,-,B,-,E,-,-,-,-,-,-,12,GreatSerpentHunt
+3,Vyke's War Spear,103,47,-,33,66,45,-,33,-,33,100,35,16,E,20,C,-,-,18,D,-,-,8,FrenzyflameThrust
+4,Lance,110,70,-,35,-,30,-,15,-,35,100,40,20,D,14,D,-,-,-,-,-,-,9,ChargeForth
+5,Treespear,122,50,-,50,-,35,-,35,79,48,100,40,15,D,22,D,-,-,18,D,-,-,9.5,SacredOrder

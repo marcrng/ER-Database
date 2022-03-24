@@ -8,7 +8,7 @@ print(page.status_code)
 
 soup = BeautifulSoup(page.content, "html.parser")
 
-# Create dict for names, category
+# Create list for names, category
 name = []
 category = []
 
@@ -16,8 +16,8 @@ category = []
 for i in soup.findAll('tr')[1:]:
     tds = i.find_all('td')
 
-    name.append(tds[0].text)
-    category.append(tds[1].text)
+    name.append(tds[0].text.strip())
+    category.append(tds[1].text.strip())
 
 # Create dict, name for other pages
 for i in range(2, 67):
@@ -32,8 +32,8 @@ for i in range(2, 67):
     for i in soup.findAll('tr')[1:]:
         tds = i.find_all('td')
 
-        name.append(tds[0].text)
-        category.append(tds[1].text)
+        name.append(tds[0].text.strip())
+        category.append(tds[1].text.strip())
 
 df = pd.DataFrame({
     "itemName": name,
@@ -41,3 +41,6 @@ df = pd.DataFrame({
 })
 
 df.to_csv('namesType.csv')
+
+
+# Insert item info for each weapon and armor

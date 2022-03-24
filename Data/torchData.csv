@@ -1,0 +1,7 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Torch,54,21,,15,97,25,,15,,15,100,19,5,D,5,D,,,,,,,1.5,TorchAttack
+1,SteelWire Torch,61,25,,18,109,30,,18,,17,100,19,10,D,8,C,,,,,,,3.0,Firebreather
+2,St Trina's Torch,51,25,,15,91,40,,15,,15,100,20,10,E,10,D,,,14,D,,,3.0,FiresofSlumber
+3,Ghostflame Torch,50,21,90,42,,13,,13,,13,100,19,10,E,10,E,14,D,,,,,2.5,TorchAttack
+4,BeastRepellent Torch,58,23,,17,104,28,,17,,17,100,19,12,C,8,E,,,,,,,2.5,TorchAttack
+5,Sentry's Torch,56,30,,21,,21,,21,100,36,100,22,15,D,8,E,,,15,D,,,5.0,TorchAttack

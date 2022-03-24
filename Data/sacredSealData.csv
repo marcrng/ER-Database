@@ -1,0 +1,10 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,atkIncant,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Finger Seal,25,25,,15.0,,15.0,,15.0,,15.0,100,15.0,114,4,E (D),,,,,10,C (S),,,1.5,
+1,Godslayer's Seal,25,25,,15.0,,15.0,,15.0,,15.0,100,15,129,4,E (D),,,,,27,C (S),,,1.5,Boosts Godskin Apostle Incantations
+2,Giant's Seal,25,25,,?,,?,,?,,?,100,15,134,4,E (D),,,,,14,D (S),,,1.5,Boosts Fire Giant Incantationsand Fire Monk Incantations
+3,Gravel Stone Seal,25,25,,15.0,,15.0,,15.0,,15.0,100,15.0,60,4,E (D),,,,,18,C (S),,,1.5,Boosts Dragon Cult Incantations
+4,Clawmark Seal,31,25,,15.0,,15.0,,15.0,,15.0,100,15.0,60,4,D (B),,,,,10,D (B),,,1.5,BoostsBestial Incantations Casting scales with Strength see note below
+5,Golden Order Seal,24,25,,25.0,,15.0,,15.0,,15.0,100,15.0,60,,,,,17,D (A),17,D (A),,,0.0,BoostsGolden Order Incantations
+6,Erdtree Seal,25,25,,15.0,,15.0,,15.0,15,15.0,100,15.0,60,,,,,,,40,C (S),,,0.0,
+7,Dragon Communion Seal,25,25,,15.0,,15.0,,15.0,,15.0,100,15.0,60,,,,,,,10,D (B),10,C (S),0.0,Boosts Dragon Communion Incantations
+8,Frenzied Flame Seal,25,25,,15.0,,15.0,,15.0,,15.0,100,15.0,146,0,E (C),0,E (C),0,E (C),0,D (B),,,0.0,BoostsFrenzied Flame Incantations Casting scales with Strengthsee note below Causes slight Madnessbuildup

@@ -1,0 +1,10 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Caestus,90,35,-,20,-,20,-,20,-,20,100,20,8,D,8,D,-,-,-,-,-,-,1.5,Endure
+1,Spiked Caestus,91,35,-,20,-,20,-,20,-,20,100,20,8,D,10,D,-,-,-,-,-,-,2,Endure
+2,Grafted Dragon,89,27,-,18,57,44,- ,18,-,18,100,22,20,D,14,D,-,-,16,D,-,-,2.5,BearWitness
+3,Iron Ball,101,38,0,22,0,22,0,22,0,22,100,22,11,D,8,E,-,-,-,-,-,-,2.5,BraggartsRoar
+4,Star Fist,105,19,0,0,0,0,0,0,0,0,100,23,12,D,8,E,-,-,-,-,-,-,3.0,Endure
+5,Katar,97,36,-,21,-,21,-,21,-,21,100,21,8,D,10,D,-,-,-,-,-,-,2.5,ImpalingThrust
+6,Clinging Bone,96,36,0,21,0,21,0,21,0,21,100,21,8,E,22,C,-,-,-,-,16,D,3.0,LifestealFist
+7,Veteran's Prosthesis,83,30,0,20,0,20,53,48,0,20,100,24,15,D,12,D,-,-,-,-,-,-,4,StormKick
+8,Cipher Pata,0,0,0,0,0,0,0,0,85,33,100,-,-,-,-,-,-,-,30,C,-,-,0,UnblockableBlade

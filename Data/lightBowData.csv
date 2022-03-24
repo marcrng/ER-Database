@@ -1,0 +1,6 @@
+,name,atkPhysical,defPhysical,range,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Shortbow,65,,29,,,,,,,,,100,,7,E,9,D,,,,,,,2.5,Barrage
+1,Misbegotten Shortbow,68,,25,,,,,,,,,100,,16,D,8,E,,,,,,,3,Barrage
+2,Red Branch Shortbow,65,,29,,,,,,,,,100,29,8,E,16,D,,,,,,,2.5,Barrage
+3,Harp Bow,62,,29,,,,,,,,,100,,9,E,9,E,,,,,,,2,Barrage
+4,Composite Bow,65,,29,,,,,,,,,100,29,15,E,15,D,,,,,,,3.0,MightyShot

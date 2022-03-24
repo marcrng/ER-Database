@@ -1,0 +1,20 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Short Sword,102,42,,28,,28,,28,,28,100,28,8,D,10,D,,,,,,,3,Kick
+1,Longsword,110,45,,30,,30,,30,,30,100,30,10,D,10,D,,,,,,,3.5,SquareOff
+2,Broadsword,117,47,,31,,31,,31,,31,100,31,10,D,10,E,,,,,,,4,SquareOff
+3,Weathered Straight Sword,103,43,,29,,29,,29,,29,100,29,7,D,10,D,,,,,,,3,SquareOff
+4,Lordsworn's Straight Sword,115,45,,30,,30,,30,, 30,110,30,10,D,10,D,,,,,, ,3.5,SquareOff
+5,Noble's Slender Sword,101,43,,29,,29,,29,,29,110,29,8,E,11,C,,,,,,,3.5,SquareOff
+6,Cane Sword,96,41,,27,,27,,27,,27,100,27,8,E,11,D,,,,,,,2.5,SquareOff
+7,Warhawk's Talon,101,42,,28,,28,,28,,28,100,28,10,D,16,C,,,,,,,3,SpinningSlash
+8,Lazuli Glintstone Sword,79,30,94,55,0,25,0,25,0,25,100,30,8,D,9,D,13,E,,,,,3.5,GlintstonePebble
+9,Carian Knight's Sword,88, 36,88,52,,26,,26,,26,100,31,10,D,10,D,18,D,,,,,4,CarianGrandeur
+10,Crystal Sword,106,44,68,44,,30,,30,,30,100,33,13,D,10,E,15,D,,,,,4.5,SpinningSlash
+11,Rotten Crystal Sword,102,48,66,38,,31,,31,,31,100,33,13,D,10,E,15,D,,,,,4.5,SpinningSlash
+12,Miquellan Knight's Sword,105,40,,28,,28,,28,68,40,100,30,11,D,11,D,,,16,E,,,3.5,SacredBlade
+13,Ornamental Straight Sword,101,42,,28,,28,,28,,28,110,28,10,E,14,D,,,,,,,3,GoldenTempering
+14,Golden Epitaph,85,25,,15,,15,,15,85,40,100,30,12,D,10,D,,,14,D,,,3.5,LastRites
+15,Sword of St Trina,107,39,32,33,,27,,27,,27,100,28,10,D,12,D,14,E,,,,,3,MistsofSlumber
+16,Regalia of Eochaid,89,48,57,40,0,31,0,31,0,31,100,34,12,E,18,D,,,,,15,D,5.5,EochaidsDancingBlade
+17,Coded Sword,,13,,22,,22,,22,85,58,100,27,,,,,,,20,B,,,2.5,UnblockableBlade
+18,Sword of Night and Flame,87,36,56,42,56,42,,26,,26,100,31,12,E,12,E,24,D,24,D,,,4,NightandFlameStance

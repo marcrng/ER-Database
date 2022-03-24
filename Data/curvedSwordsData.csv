@@ -1,0 +1,16 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Falchion,109,42,-,31,-,31,-,31,-,31,100,26,9,D,13,D,-,-,-,-,-,-,3.5,SpinningSlash
+1,Scimitar,106,40,-,30,-,30,-,30,-,30,100,25,7,D,13,D,-,-,-,-,-,-,3.0,SpinningSlash
+2,Grossmesser,115,46.0,-,34,-,34,-,34,-,34,100,28,14,D,12,D,-,-,-,-,-,-,4.5,SpinningSlash
+3,Mantis Blade,112,44,-,-,-,-,-,-,-,-,100,27,10,D,12,D,-,-,-,-,-,-,4.0,SpinningSlash
+4,Scavenger's Curved Sword,105,40,-,30,-,30,-,30,-,30,100,25,9,D,14,D,-,-,-,-,-,-,3.5,SpinningSlash
+5,Shotel,96,37,-,27,-,27,-,27,-,27,100,22,9,E,19,D,-,-,-,-,-,-,2.0,SpinningSlash
+6,Eclipse Shotel,77,35,-,25,-,25,-,25,77,50,100,25,10,E,25,D,-,-,30,D,-,-,3.0,DeathFlare
+7,Wing of Astel,65,28,78,52,-,23,-,23,-,23,100,23,7,E,17,D,20,D,-,-,-,-,2.5,Nebula
+8,Nox Flowing Sword,112,40,-,30,-,30,-,30,-,30,100,25,8,E,15,D,-,-,-,-,-,-,3.5,FlowingForm
+9,Serpent-God's Curved Sword,113,44,-,33,-,33,-,33,-,33,100,27,13,D,9,E,-,-,-,-,-,-,4,SpinningSlash
+10,Shamshir,108,42,-,31,-,31,-,31,-,31,100,28,7,D,13,D,-,-,-,-,-,-,3.5,SpinningSlash
+11,Bandit's Curved Sword,118,48,-,36,-,36,-,36,-,36,100,30,11,D,13,D,-,-,-,-,-,-,5.0,SpinningSlash
+12,Flowing Curved Sword,109,42,-,31,-,31,-,31,-,31,100,26,9,D,17,D,-,-,-,-,-,-,3.5,SpinningSlash
+13,Magma Blade,96,44,-,30,62,44,-,30,-,30,100,27,9,D,15,D,-,-,16,D,-,-,4.0,MagmaShower
+14,Beastman's Curved Sword,113,44,-,33,-,33,-,33,-,33,100,27,13,C,11,E,-,-,-,-,-,-,4.0,SpinningSlash

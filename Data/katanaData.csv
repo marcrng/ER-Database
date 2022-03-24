@@ -1,0 +1,9 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Uchigatana,115,45,,30,,30,,30,,30,100,30,11,D,15,D,,,,,,,5.5,Unsheathe
+1,Nagakiba,104,49,,33,,33,,33,,33,100,33,18,D,22,C,,,,,,,7.0,PiercingFang
+2,Hand of Malenia,117,49,,33,,33,,33,,33,100,33,16,E,48,C,,,,,,,7.0,WaterfowlDance
+3,Meteoric Ore Blade,112,50,72,45,,31,,31,,31,100,30,15,D,14,E,18,D,,,,,7.5,Gravitas
+4,Rivers of Blood,89,36,,26,89,52,,26,,26,100,31,12,E,18,D,,,,,20,D,6.5,CorpsePiler
+5,Moonveil,73,31,87,57,,26,,26,,26,100,31,12,E,18,D,23,C,,,,,6.5,TransientMoonlight
+6,Dragonscale Blade,110,35,,25,,25,,50,,25,100,30,12,D,20,C,,,,,,,5.5,IceLightningSword
+7,Serpentbone Blade,120,45,,30,,30,,30,,30,100,30,11,E,22,C,,,,,,,6.0,DoubleSlash

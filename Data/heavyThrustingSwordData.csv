@@ -1,0 +1,5 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Bloody Helice,130,57,,40,,40,,40,,40,100,34,16,D,19,D,,,,,17,D,8.0,DynastsFinesse
+1,Godskin Stitcher,127,55,,38,,38,,38,,38,100,33,14,D,17,D,,,,,,,7,ImpalingThrust
+2,Great Epee,124,52,,36,,36,,36,,36,100,31,15,D,16,D,,,,,,,6.5,ImpalingThrust
+3,Dragon King's Cragblade,92,46,0,32,0,32,53,46,0,32,100,34,18,E,37,D,,,,,,,8,ThundercloudForm

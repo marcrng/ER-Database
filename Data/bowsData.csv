@@ -1,0 +1,8 @@
+,name,atkPhysical,defPhysical,range,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Longbow,80,-,50,-,-,-,-,-,-,-,-,100,-,E,9,14,D,-,-,-,-,-,-,4.0,MightyShot
+1,Albinauric Bow,82,-,,-,-,-,-,-,-,-,-,100,-,E,7,18,D,-,-,-,-,-,-,4.5,MightyShot
+2,Horn Bow,65,-,50,30,.,-,-,-,-,-,-,100,-,E,10,14,D,12,-,-,-,-,-,4.5,MightyShot
+3,Erdtree Bow,40,-,50,-,-,-,-,-,-,50,-,100,-,E,8,12,E,-,-,14,D,-,-,4.0,MightyShot
+4,Serpent Bow,75,-,50,-,-,-,-,-,-,-,-,100,-,E,8,15,D ,-,-,-,-,11,D,3.5,MightyShot
+5,Pulley Bow,77,-,55,-,-,-,-,-,-,-,-,100,-,D,11,11,D,-,-,-,-,-,-,5.0,MightyShot
+6,Black Bow,70,-,50,-,-,-,-,-,-,-,-,100,-,E,9,20,D,-,-,-,-,-,-,4.0,Barrage

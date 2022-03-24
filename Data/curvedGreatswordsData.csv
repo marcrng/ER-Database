@@ -1,0 +1,10 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Onyx Lord's Greatsword,118,42,76,42,-,29,-,29,-,29,100,36,20,D,16,E,16,D,-,-,-,-,11.5,OnyxLordsRepulsion
+1,Dismounter,138,50,-,35,-,35,-,35,-,35,100,35,19,D,16,D,-,-,-,-,-,-,10.0,SpinningSlash
+2,Bloodhound's Fang,141,52,-,36,-,36,-,36,-,36,100,36,18,D,17,C,-,-,-,-,-,-,11.5,BloodhoundsFinesse
+3,Magma Wyrm's Scalesword,114,48,-,33,74, 48,-, 33,-, 33,100, 42,24,C,15,D,-,-,18,D,-,-,15.0,MagmaGuillotine
+4,Zamor Curved Sword,125,47,-,33,-,33,-,33,-,33,100,33,16,D,18,D,-,-,-,-,-,-,9.0,ZamorIceStorm
+5,Omen Cleaver,142,52,-,36,-,36,-,36,-,36,100,-,19,D,16,D,-,-,-,-,-,-,11.5,SpinningSlash
+6,Monk's Flameblade,134,47,-,33,-,33,-,33,-,33,100,33,18,D,18,D,-,-,-,-,-,-,9.0,SpinningSlash
+7,Beastman's Cleaver,143,62,-,43,-,43,-,43,-,43,100,36,25,C,14,-,-,-,-,-,-,-,16.5,SpinningSlash
+8,Morgott's Cursed Sword,123,42,-,29,-,29,-,29,-,29,110,29,14,E,35,C,-,-,-,-,17,D,7.5,CursedBloodSlice

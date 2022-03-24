@@ -1,0 +1,8 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Antspur Rapier,98,47,,,,,,,,,100,21,10,D,20,D,,,,,,,3.0,ImpalingThrust
+1,Estoc,107,54,,36,,36,,36,,36,100,24,11,E,13,C,,,,,,,4.5,ImpalingThrust
+2,Frozen Needle,99,40,,40,,28,,28,,28,100,20,11,E,18,D,,,,,,,2.5,ImpalingThurst
+3,Noble's Estoc,104,49,,33,,33,,33,,33,100,22,9,D,10,D,,,,,,,3.5,ImpalingThrust
+4,Rapier,96,45,,30,,30,,30,,30,130,20,7, E,12,C,,,,,,,2.5,ImpalingThrust
+5,Cleanrot Knight's Sword,109,51,,34,,34,,34,,34,100,23,13,D,11,D,,,,,,,4,ImpalingThrust
+6,Rogier's Rapier (+8),136,49,,33,,33,,33,,33,110,23,8,E,17,C,,,,,,,3.5,RepeatingThrust

@@ -1,0 +1,19 @@
+,name,atkPhysical,sorceryScaling,atkMagic,atkFire,atkLight,atkHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight
+0,Astrologer's Staff,25,120, 15, 15, 15, 15,100,15,7,E,,,16,C,,,,,3
+1,Glintstone Staff,25,119, 15, 15, 15, 15,100,15,6,E,,,10,C,,,,,3
+2,Academy Glintstone Staff,25,60, 15, 15, 15, 15,100,15,6,E,,,28,B,,,,,3
+3,Carian Regal Scepter,24,60, 15, 15, 15, 15,100,15,8,E,10,E,60,B,,,,,3
+4,DemiHuman Queen's Staff,31,130, 15, 15, 15, 15,,15,6,D,,,10,C,,,,,3
+5,Digger's Staff,38,117, 17, 17, 17, 17,100,17,8,C,,,12,D,,,,,4.5
+6,Azur's Glintstone Staff,24,60, 15, 15, 15, 15,100,15,10,D,,,52,B,,,,,4
+7,Carian Glintstone Staff,25,60, 15, 15, 15, 15,100,15,6,E,8,,24,C,,,,,3
+8,Staff of Loss,22,116, 14, 14, 14, 14,100,14,6,E,12,E,14,C,,,,,2.5
+9,Meteorite Staff,39,143, 17, 17, 17, 17,100,17,6,D,,,18,S,,,,,4.5
+10,Lusat's Glintstone Staff,24,60, 15, 15, 15, 15,100,15,10,D,,,52,B,,,,,4
+11,Crystal Staff,31,60, 17, 17, 17, 17,100,17,8,D,,,48,B,,,,,4.5
+12,Staff of the Guilty,38,117, 17, 17, 17, 17,100,17,8,D,,,,,12,C,,,4.5
+13,Prince of Death's Staff,25,122,15,15,15,15,100,15,6,E,,,18,D,18,D,,,3
+14,Carian Glintblade Staff,22,60, 14, 14, 14, 14,100,14,6,E,12,E,22,C,,,,,2.5
+15,Rotten Crystal Staff,42,60, 17, 17, 17, 17,100,17,8,D,,,48,B,,,,,4.5
+16,Gelmir Glintstone Staff,29,117, 14, 14, 14, 14,100,14,6,E,,,14,D,14,D,,,2.5
+17,Albinauric Staff,17,125, 14, 14, 14, 14,100,14,6,E,,,10,D,,,12,C,2.5

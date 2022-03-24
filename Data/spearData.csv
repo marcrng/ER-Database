@@ -1,0 +1,17 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
+0,Short Spear,112,40,,25,,25,,25,,25,100,30,10,D,10,D,,,,,,,4,ImpalingThrust
+1,Spear,114,42,,26,,26,,26,,26,100,33,12,E,15,C,,,,,,,4.5,ImpalingThrust
+2,Crystal Spear,110,48,33,33,,25,,25,,25,100,33,10,E,16,D,16,E,,,,,5.5,ImpalingThrust
+3,Clayman's Harpoon,99,49,64,38,,25,,25,,25,100,33,12,D,10,E,12,D,,,,,5.5,ImpalingThrust
+4,Cleanrot Spear,102,49,,25,,25,,25,66,38,100,33,16,D,16,D,,,14,D,,,5.5,SacredPhalanx
+5,Partisan,123,48.0,,30,,30,,30,,30,100,36,15,D,12,D,,,,,,,6.5,ImpalingThrust
+6,Celebrant's RibRake,109,40,,25,,25,,25,,25,100,33,8,E,14,D,,,,,,,5,BarbaricRoar
+7,Pike,115,53,,33,,33,,33,,33,100,39,20,D,14,D,,,,,,,7.5,ChargeForth
+8,Torchpole,104,48,,?26,31,33,,26,,26,100,34,14,D,15,E,,,,E,,,6,ChargeForth
+9,Bolt of Gransax,98,60,,31,,31,63,47,,31,100,40,20,D,40,D,,,,,,,8.5,AncientLightningSpear
+10,CrossNaginata,122,52,,32,,32,,32,,32,100,39,16,D,20,C,,,,,,,8,ImpalingThrust
+11,Death Ritual Spear,99,54,64,42,,27,,27,,27,110,36,14,E,20,D,18,D,,,,,6.5,SpearcallRitual
+12,Inquisitor's Girandole,102,56,,28,66,43,,28,,28,100,37,18,D,15,D,,,16,D,,,7.5,ChargeForth
+13,Spiked Spear,120,46,,28,,28,,28,,28,100,34,14,D,16,D,,,,,,,6.0,ImpalingThrust
+14,Iron Spear,114,42,,26,,26,,26,=,26,100,31,13,D,11,D,,,,,,,4.5,ChargeForth
+15,Rotten Crystal Spear,104,48,31,33,,26,,26,,26,100,34,10,E,16,D,16,E,,,,,5.5,ChargeForth
