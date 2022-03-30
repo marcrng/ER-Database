@@ -1,0 +1,16 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill,type
+0,Prelate's Inferno Crozier,156,66,,49,,49,,49,,49,100,44,45,C,8,E,,,,,,,23.5, Prelates Charge,Colossalweapon
+1,Watchdog's Staff,165,60,,45,,45,,45,,45,100,40,34,D,10,D,,,,,,,19, Sorcery of the Crozier,Colossalweapon
+2,Great Club,154,57,,42,,42,,42,,42,100,38,35,C,,,,,,,,,17.0,    Golden Land,Colossalweapon
+3,Envoy's Greathorn,121,55,,43,,43,,43,78,55,100,40,28,D,12,D,,,24,E,,,19.5, Great Oracular Bubble,Colossalweapon
+4,Duelist Greataxe,170,63,,47,,47,,47,,47,100,42,30,E,10,D,,,,,,,20, Endure,Colossalweapon
+5,Axe of Godfrey,165,60,,45,,45,,45,,45,100,40,42,D,14,D,,,,,,,18.0, Regal Roar,Colossalweapon
+6,Dragon Greatclaw,120,52,,40,,40,78,52,,40,100,40,30,D,14,D,,,,,,,16.0, Endure,Colossalweapon
+7,Staff of the Avatar,113,45,,,,,,,73,26,100,42,34,C,8,E,,,24,D,,,20.0, Erdtree Slam,Colossalweapon
+8,Fallingstar Beast Jaw,131, 55,85, 55,,43,,43,,43,100, 40,34,D,12,D,30,E,,,,,21.5,  Gravity Bolt,Colossalweapon
+9,Ghiza's Wheel,156,58,,43,,43,,43,,43,100,38,28,D,18,D,,,,,,,19.0, Spinning Wheel,Colossalweapon
+10,GiantCrusher,155 ,70, ,52, ,52, ,52, ,52,100,47,60, C,,,,,,,, ,26.5, Strike,Colossalweapon
+11,Golem's Halberd,158,60,,45,,45,,45,,45,100,40,36,D,14,D,,,,,,,21.5, Charge Forth,Colossalweapon
+12,Troll's Hammer,153,52,,41,45,46,,41,,41,100,34,28,D,8,E,,,10,D,,,16.0, Trolls Roar,Colossalweapon
+13,Rotten Staff,165,60,,45,,45,,45,,45,100,40,34,D,8,E,,,,,,,18, Erdtree Slam,Colossalweapon
+14,Rotten Greataxe,162,63,,47,,47,,47,,47,100,42,30,E,10,D,,,,,,,20, Endure,Colossalweapon

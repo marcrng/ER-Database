@@ -1,0 +1,8 @@
+,name,atkPhysical,defPhysical,range,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill,wtype
+0,Soldier's Crossbow,54,, ,,,,,,,42,,100,,10,,8,,,,,,,,3.5,Kick,Crossbow
+1,Light Crossbow,58,, ,,,,,,,42,,100,,12,,8,,,,,,,,4.0,Kick,Crossbow
+2,Heavy Crossbow,64,, ,,,,,,,,,100,,14,,10,,,,,,,,5.5,Kick,Crossbow
+3,Pulley Crossbow,65,, ,,,,,,,42,,100,,16,,16,,,,,,,,4.0,Kick,Crossbow
+4,Full Moon Crossbow,50,,50 ,,,,,,,42,,100,,10,,10,,14,,,,,,4.0,Kick,Crossbow
+5,Arbalest,69,, ,,,,,,,42,,100,,18,,12,,,,,,,,6.0,Kick,Crossbow
+6,Crepus's BlackKey Crossbow,68,, ,,,,,,,47,,100,,14,,16,,,,,,,,5.0,Kick,Crossbow

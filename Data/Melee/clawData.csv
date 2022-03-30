@@ -1,0 +1,5 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill,type
+0,Hookclaws,89,35,,20,,20,,20,,20,110,20,8,E,14,C,,,,,,,2.0, Quickstep,Claw
+1,Venomous Fang,92,36,,21,,21,,21,,21,100,19,9,D,9,D,,,,,,,2.5, Quickstep,Claw
+2,Bloodhound Claws,94,38,,22,,22,,22,,22,110,22,10,D,15,D,,,,,,,3.0, Bloodhounds Step,Claw
+3,Raptor Talons,83,33,,19,,19,,19,,19,110,19,6,E,14,C,,,,,,,1.5, Quickstep,Claw

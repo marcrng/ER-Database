@@ -106,11 +106,6 @@ select name,
        skill
 from ranged_data_temp;
 
-# Insert id's
-update ranged_data ss
-    join items_data i on ss.name = i.name
-set ss.id = i.id;
-
 
 create table sacredSeal_data
 (
@@ -175,10 +170,56 @@ select name,
        skill
 from sacredseal_data_temp;
 
+create table staff_data
+(
+    name        TEXT   null,
+    atkPhysical INT    null,
+    defPhysical INT    null,
+    atkMagic    int    null,
+    defMagic    int    null,
+    atkFire     int    null,
+    defFire     int    null,
+    atkLight    int    null,
+    defLight    int    null,
+    atkHoly     INT    null,
+    defHoly     int    null,
+    crit        INT    null,
+    guardBoost  DOUBLE null,
+    strReq      INT    null,
+    strScaling  TEXT   null,
+    dexReq      INT    null,
+    dexScaling  TEXT   null,
+    intReq      INT    null,
+    intScaling  TEXT   null,
+    faiReq      INT    null,
+    faiScaling  TEXT   null,
+    arcReq      INT    null,
+    arcScaling  TEXT   null,
+    weight      DOUBLE null,
+    skill       TEXT   null,
+    type varchar(255) null
+);
 
-select name
-from items_data
-where name like '%''%'
+alter table staff_data
+add column id int;
+
+alter table staff_data
+add foreign key (id) references items_data(id);
+
+# Insert id's
+update staff_data ss
+    join items_data i on ss.name = i.name
+set ss.id = i.id;
+
+# Add weapon type to tables
+alter table melee_data
+add column type varchar(255);
+
+alter table melee_data
+add column type varchar(255);
+
+alter table melee_data
+add column type varchar(255)
 
 #TODO: add skills table with fp cost values
 #TODO: add spells table with damage and fp cost

@@ -12,10 +12,4 @@ update sacredseal_data
 set name = replace(name, '’', '''');
 
 
-UPDATE t2
-JOIN t1 ON t2.name = t1.name
-SET t2.id = t1.id;
 
-select name, count(name)
-from items_data
-group by name

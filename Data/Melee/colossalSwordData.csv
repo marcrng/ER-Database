@@ -1,0 +1,12 @@
+,name,atkPhysical,defPhysical,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill,type
+0,Zweihander,141,54,,40,,40,,40,,40,100,36,19,D,11,D,,,,,,,15.5,   Stamp Upward Cut,Colossalsword
+1,Greatsword,164,67,,50,,50,,50,,50,100,39,31,C,12,E,,,,,,,23,   Stamp Upward Cut,Colossalsword
+2,Watchdog's Greatsword,142,66,,49,,49,,49,,49,100,38,30,C,10,E,,,,,,,22,   Stamp Upward Cut,Colossalsword
+3,Troll's Golden Sword,155,61,,46,,46,,46,,46,100,41,29,D,10,D,,,,,,,19, Trolls Roar,Colossalsword
+4,Troll Knight's Sword,124,55,80,55,,43,,43,,43,100,40,20,D,14,D,18,D,,,,,18, Trolls Roar,Colossalsword
+5,Royal Greatsword,112,55,134,63,,44,,44,,44,100,42,26,D,18,E,22,D,,,,,20, Wolfs Assault,Colossalsword
+6,Grafted Blade Greatsword,157,64,,48,,48,,48,,48,100,43,40,C,14,E,,,,,,,21, Oath of Vengeance,Colossalsword
+7,Ruins Greatsword,124,65,37,56,,50,,50,,50,100,45,50,B,,,16,E,,,,,23, Wave of Destruction,Colossalsword
+8,Starscourge Greatsword,129,49,83,47,,34,,34,,34,100,42,38,D,12,D,15,E,,,,,20,   Starcaller Cry,Colossalsword
+9,Godslayer's Greatsword,119,49,,38,77,49,,38,,38,100,36,20,D,22,D,,,20,D,,,17.5,   The Queens Black Flame,Colossalsword
+10,Maliketh's Black Blade,127,51,,36,,36,,36,82,49,100,38,34,D,12,E,,,20,D,,,22, Destined Death,Colossalsword

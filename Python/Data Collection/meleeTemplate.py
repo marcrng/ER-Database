@@ -5,7 +5,11 @@ import re
 
 pd.set_option("display.max_rows", None, "display.max_columns", None)
 
-URL = "https://eldenring.wiki.fextralife.com/Crossbows"
+itemtype = 'colossalWeapon'
+itemnum = 16
+foldername = 'melee'
+
+URL = "https://eldenring.wiki.fextralife.com/Colossal+Weapons"
 page = requests.get(URL)
 
 soup = BeautifulSoup(page.content, "html.parser")
@@ -14,7 +18,6 @@ soup = BeautifulSoup(page.content, "html.parser")
 name = []
 atkPhysical = []
 defPhysical = []
-range = []
 atkMagic = []
 defMagic = []
 atkFire = []
@@ -37,8 +40,10 @@ arcReq = []
 arcScaling = []
 weight = []
 skill = []
+itype = []
 
-for i in soup.findAll('tr')[1:]:
+
+for i in soup.findAll('tr')[1:itemnum]:
     tds = i.findAll('td')
 
     name.append(tds[0].text.strip())
@@ -47,63 +52,64 @@ for i in soup.findAll('tr')[1:]:
         defPhysical.append(tds[1].text.strip().split(' ', 1)[1])
     except:
         defPhysical.append('-')
-    range.append(tds[2].text.strip())
-    atkMagic.append(tds[3].text.strip().split(' ', 1)[0])
+    atkMagic.append(tds[2].text.strip().split(' ', 1)[0])
     try:
-        defMagic.append(tds[3].text.strip().split(' ', 1)[1])
+        defMagic.append(tds[2].text.strip().split(' ', 1)[1])
     except:
         defMagic.append('-')
-    atkFire.append(tds[4].text.strip().split(' ', 1)[0])
+    atkFire.append(tds[3].text.strip().split(' ', 1)[0])
     try:
-        defFire.append(tds[4].text.strip().split(' ', 1)[1])
+        defFire.append(tds[3].text.strip().split(' ', 1)[1])
     except:
         defFire.append('-')
-    atkLight.append(tds[5].text.strip().split(' ', 1)[0])
+    atkLight.append(tds[4].text.strip().split(' ', 1)[0])
     try:
-        defLight.append(tds[5].text.strip().split(' ', 1)[1])
+        defLight.append(tds[4].text.strip().split(' ', 1)[1])
     except:
         defLight.append('-')
-    atkHoly.append(tds[6].text.strip().split(' ', 1)[0])
+    atkHoly.append(tds[5].text.strip().split(' ', 1)[0])
     try:
-        defHoly.append(tds[6].text.strip().split(' ', 1)[1])
+        defHoly.append(tds[5].text.strip().split(' ', 1)[1])
     except:
         defHoly.append('-')
-    crit.append(tds[7].text.strip().split(' ', 1)[0])
+    crit.append(tds[6].text.strip().split(' ', 1)[0])
     try:
-        guardBoost.append(tds[7].text.strip().split(' ', 1)[1])
+        guardBoost.append(tds[6].text.strip().split(' ', 1)[1])
     except:
         guardBoost.append('-')
-    strReq.append(tds[8].text.strip().split(' ', 1)[0])
-    strScaling.append(tds[8].text.strip().split(' ', 1)[1])
-    dexReq.append(tds[9].text.strip().split(' ', 1)[0])
+    strReq.append(tds[7].text.strip().split(' ', 1)[0])
     try:
-        dexScaling.append(tds[9].text.strip().split(' ', 1)[1])
+        strScaling.append(tds[7].text.strip().split(' ', 1)[1])
+    except:
+        strScaling.append('-')
+    dexReq.append(tds[8].text.strip().split(' ', 1)[0])
+    try:
+        dexScaling.append(tds[8].text.strip().split(' ', 1)[1])
     except:
         dexScaling.append('-')
-    intReq.append(tds[10].text.strip().split(' ', 1)[0])
+    intReq.append(tds[9].text.strip().split(' ', 1)[0])
     try:
-        intScaling.append(tds[10].text.strip().split(' ', 1)[1])
+        intScaling.append(tds[9].text.strip().split(' ', 1)[1])
     except:
         intScaling.append('-')
-    faiReq.append(tds[11].text.strip().split(' ', 1)[0])
+    faiReq.append(tds[10].text.strip().split(' ', 1)[0])
     try:
-        faiScaling.append(tds[11].text.strip().split(' ', 1)[1])
+        faiScaling.append(tds[10].text.strip().split(' ', 1)[1])
     except:
         faiScaling.append('-')
-    arcReq.append(tds[12].text.strip().split(' ', 1)[0])
+    arcReq.append(tds[11].text.strip().split(' ', 1)[0])
     try:
-        arcScaling.append(tds[12].text.strip().split(' ', 1)[1])
+        arcScaling.append(tds[11].text.strip().split(' ', 1)[1])
     except:
         arcScaling.append('-')
-    weight.append(tds[13].text.strip())
-    skill.append(re.sub('[^a-zA-Z]+', '', tds[14].text.strip()))
-
+    weight.append(tds[12].text.strip())
+    skill.append(re.sub('[^a-zA-Z ]+', '', tds[13].text.strip()))
+    itype.append(itemtype.capitalize())
 
 df = pd.DataFrame({
     'name': name,
     'atkPhysical': atkPhysical,
     'defPhysical': defPhysical,
-    'range': range,
     'atkMagic': atkMagic,
     'defMagic': defMagic,
     'atkFire': atkFire,
@@ -125,11 +131,12 @@ df = pd.DataFrame({
     'arcReq': arcReq,
     'arcScaling': arcScaling,
     'weight': weight,
-    'skill': skill
+    'skill': skill,
+    'type': itype
 })
 
 df = df.replace('-', '', regex=True)
 
 print(df)
 
-df.to_csv('crossbowData.csv')
+df.to_csv('..\data\\' + foldername + '\\' + itemtype + 'Data.csv')
