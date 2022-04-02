@@ -11,5 +11,3 @@ set name = replace(name, '’', '''');
 update sacredseal_data
 set name = replace(name, '’', '''');
 
-
-

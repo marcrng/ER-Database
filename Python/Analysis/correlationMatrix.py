@@ -46,7 +46,7 @@ connection = create_db_connection('localhost', 'marcrng', 'Kaisersql0413$', 'er_
 
 # Create dataframe from melee_data
 from_db = []
-
+# SQL query to retrieve relevant columns
 melee_data_selectall = """
 SELECT atkPhysical, crit, strReq, strScaling, weight
 FROM melee_data;
