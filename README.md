@@ -1,3 +1,6 @@
+# Special Thanks
+<a href="https://www.flaticon.com/free-icons/sword" title="sword icons">Sword icons created by Freepik - Flaticon</a>
+
 # 1| Introduction
 
 # 3| Analysis
