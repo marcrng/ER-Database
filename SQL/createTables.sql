@@ -547,7 +547,31 @@ select id,
        weight,
        skill,
        type
-from melee_data
+from melee_data;
+
+# Add total atk, def columns
+alter table weapons_master
+    add column atkTotal int;
+alter table weapons_master
+    add column defTotal int;
+
+# Test query to confirm results are correct
+with tempsum as
+(select id, name,
+       sum(ifnull(atkPhysical, 0) + ifnull(atkMagic, 0) + ifnull(atkFire, 0) + ifnull(atkLight, 0) + ifnull(atkHoly, 0)) atkSum,
+       sum(ifnull(defPhysical, 0) + ifnull( defMagic, 0) + ifnull( defFire, 0) + ifnull( defLight, 0) + ifnull( defHoly, 0)) defSum
+from weapons_master
+group by id, name)
+
+# Populate atkTotal, defTotal
+update weapons_master, tempsum
+    set atkTotal = atkSum,
+        defTotal = defSum
+where tempsum.id = weapons_master.id
+
+
+
 
 #TODO: add skills table with fp cost values
 #TODO: add spells table with damage and fp cost
+#TODO: Change scaling letters to numbers, add table as key for number definitions
