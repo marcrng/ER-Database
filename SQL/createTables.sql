@@ -567,10 +567,24 @@ group by id, name)
 update weapons_master, tempsum
     set atkTotal = atkSum,
         defTotal = defSum
-where tempsum.id = weapons_master.id
+where tempsum.id = weapons_master.id;
 
+# Found missing weapons, insert all weapon id's into weapons master
+insert into weapons_master(id, name)
+select id, name
+from items_data
+where item_type = 'Weapons'
+and id not in(
+    select id
+    from weapons_master
+    )
 
-
+load data infile '../Ranged/crossbowData.csv'
+into table melee_data
+fields terminated by ','
+enclosed by '"'
+lines terminated by '/n'
+ignore 1 lines;
 
 #TODO: add skills table with fp cost values
 #TODO: add spells table with damage and fp cost

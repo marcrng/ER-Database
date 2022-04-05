@@ -1,5 +1,5 @@
 ,name,atkPhysical,defPhysical,range,atkMagic,defMagic,atkFire,defFire,atkLight,defLight,atkHoly,defHoly,crit,guardBoost,strReq,strScaling,dexReq,dexScaling,intReq,intScaling,faiReq,faiScaling,arcReq,arcScaling,weight,skill
-0,Lion Greatbow,120,-,50,-,-,-,-,-,-,-,-,100,-,22,D,18,D,-,-,-,-,-,-,9.5,RadahnsRain
+0,Lion Greatbow,120,"",50,-,-,-,-,-,-,-,-,100,-,22,D,18,D,-,-,-,-,-,-,9.5,RadahnsRain
 1,Golem Greatbow,130,-,50,-,-,-,-,-,-,-,-,100,-,24,D,18,E,-,-,-,-,-,-,14.5,ThroughandThrough
 2,Erdtree Greatbow,60,-,50,-,-,-,-,-,-,65,-,100,-,20,E,14,E,-,-,14,D,-,-,11.0,ThroughandThrough
 3,Greatbow,125,-,50,-,-,-,-,-,-,-,-,100,-,20,D,20,D,-,-,-,-,-,-,10,ThroughandThrough

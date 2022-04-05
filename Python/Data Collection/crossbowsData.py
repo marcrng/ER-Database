@@ -135,4 +135,4 @@ df = df.replace('-', '', regex=True)
 
 print(df)
 
-df.to_csv('..\Data\\Ranged\crossbowData.csv')
+# df.to_csv('..\Data\\Ranged\crossbowData.csv')

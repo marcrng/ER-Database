@@ -11,3 +11,10 @@ set name = replace(name, '’', '''');
 update sacredseal_data
 set name = replace(name, '’', '''');
 
+update weapons_master w
+set id = (select id from items_data i where i.name = w.name)
+
+select id, name
+from weapons_master
+group by id
+having count(id) > 1
