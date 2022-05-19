@@ -8,6 +8,8 @@ pd.set_option("display.max_rows", None, "display.max_columns", None)
 URL = "https://eldenring.wiki.fextralife.com/Axes"
 page = requests.get(URL)
 
+page.content
+
 soup = BeautifulSoup(page.content, "html.parser")
 
 # Create lists for necessary columns
